@@ -1,6 +1,6 @@
 create table if not exists radnik
 (
-    idbr               integer PRIMARY KEY NOT NULL, --identifikacioni broj
+    idbr             integer PRIMARY KEY NOT NULL, --identifikacioni broj
     ime              varchar(25)         NOT NULL,
     posao            varchar(15)         NOT NULL,
     kvalifikacija    varchar(3) default NULL,

@@ -358,8 +358,6 @@ FROM radnik
 GROUP BY broj_odeljenja, posao
 ORDER BY broj_odeljenja ASC;
 
--- jovana
-
 -- Prikazati brojeve odeljenja i srednju platu u svakom od njih, samo za
 -- odeljenja u kojima je srednja plata veća od 2000.
 SELECT broj_odeljenja, round(avg(plata), 2)
