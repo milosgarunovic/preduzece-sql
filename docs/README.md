@@ -1,8 +1,9 @@
 # Preduzece SQL
 
-Ovo je repository koji predstavlja upite za kreiranje baze preduzce, prvobitno radjeno u MS Access a onda prilagođeno za
-PostgreSQL bazu. Kao što piše u knjizi, ovo je sa VIŠER-a, visoke škole u koju sam išao. Ali se pojavila potreba da
-pokazujem SQL pa je ovo bilo prilagođeno i za IT Bootcamp na kome sam bio asistent.
+Ovo je repository koji predstavlja upite za kreiranje baze preduzce, zajedno sa upitima i odgovorima za vežbanje.
+Prvobitno radjeno u MS Access a onda prilagođeno za PostgreSQL bazu. Kao što piše u knjizi, ovo je sa VIŠER-a, visoke
+škole koju sam završio. Ali se pojavila potreba da pokazujem SQL pa je ovo bilo prilagođeno i za IT Bootcamp na kome sam
+bio asistent.
 
 Informacije o bazi možete naći u knjizi [SQL.pdf](../SQL.pdf).
 
